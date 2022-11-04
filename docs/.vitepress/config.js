@@ -6,9 +6,12 @@ module.exports = {
         siteTitle: false,
         logo: "/logo.svg",
         nav: [
-            { text: "技术解析", link: "/guide/introduction" },
-            // { text: "", link: "/examples/button/" },
+            { text: "技术解析", link: "/guide/introduction" }
         ],
+        footer: {
+            message: 'Released under the MIT License.',
+            copyright: 'Copyright © 2022-present Codeteenager'
+        },
         socialLinks: [{ icon: "github", link: "https://github.com/codeteenager/theia-analysis" }],
         sidebar: {
             "/guide/": [
