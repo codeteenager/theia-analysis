@@ -1,0 +1,1 @@
+import{_ as E,c as a,o as B,a as A}from"./app.7659e756.js";const n=JSON.parse('{"title":"\u6280\u672F\u5206\u4EAB","description":"","frontmatter":{},"headers":[],"relativePath":"guide/share.md"}'),e={name:"guide/share.md"},i=A("",2),l=[i];function d(s,f,t,D,h,r){return B(),a("div",null,l)}const o=E(e,[["render",d]]);export{n as __pageData,o as default};
