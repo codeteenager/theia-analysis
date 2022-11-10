@@ -1,3 +1,4 @@
+# 脚手架源码分析
 >在之前的文章中，我们介绍了Theia的构建，其中用到了很多theia的命令，这些命令来自于@theia/cli这个库，本篇文章我们就对@theia/cli以及相关联的库进行分析。本篇文章是继构建桌面IDE，工程代码为[Theia Blueprint](https://github.com/eclipse-theia/theia-blueprint)，源码版本是1.28.0。
 
 ## 下载

@@ -1,4 +1,4 @@
-## 概述
+# 概述
 自从接触IDE这方面的技术以来，一直关注其他厂商是如何做IDE的，刚开始了解IDE是从微信、百度、支付宝等这些开发者工具知道这些开发者工具是基于electron或NW.js去构建的，但是从头开始写成本比较高。后来也看了一些其他的IDE，像 [Weex Studio](http://emas.weex.io/zh/tools/ide.html)、[白鹭Egret Wing](https://www.egret.com/products/wing.html)、[快应用IDE](https://www.quickapp.cn/docCenter/IDEPublicity)、[APICloud Studio](https://docs.apicloud.com/apicloud3/index.html#/overview/devtools)这类的是基于VSCode源码定制的，技术相对成熟，大部分功能现成的，工作量相对较少，于是就基于VSCode去定制了第一版的开发工具，详情可以看之前写的[VSCode技术揭秘](https://www.jiangshuaijie.cn/archives/34)。直到后面了解到Theia这个框架，发现样式和功能与VSCode差不多，而且也部分支持VSCode的插件，最主要是能够通过扩展的形式去丰富IDE的视图功能，与VSCode修改UI源码相比，Theia的方式更加好用，只不过前提是要对Theia的源码有所了解才可以去定制，所以当时就把Theia作为IDE的主要研究方向。
 
 ## 总体架构

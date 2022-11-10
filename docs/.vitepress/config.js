@@ -12,6 +12,7 @@ module.exports = {
             message: 'Released under the MIT License.',
             copyright: 'Copyright © 2022-present codeteenager'
         },
+        smoothScroll: true,
         socialLinks: [{ icon: "github", link: "https://github.com/codeteenager/theia-analysis" }],
         sidebar: {
             "/guide/": [
@@ -44,8 +45,21 @@ module.exports = {
                             link: "/guide/layout",
                         },
                     ],
-                }
+                },
+                {
+                    text: "其他",
+                    items: [
+                        {
+                            text: "技术分享",
+                            link: "/guide/share",
+                        }
+                    ],
+                },
             ],
+        },
+        docFooter: {
+            prev: '上一页',
+            next: '下一页'
         }
     }
 }

@@ -1,3 +1,4 @@
+# 构建桌面IDE
 >在上一篇文章 Eclipse Theia技术揭秘——初识Theia 简单介绍了一下Eclipse Theia这套IDE平台，这篇文章介绍一下如何基于Eclipse Theia构建桌面IDE。
 
 ## Eclipse Theia Blueprint介绍

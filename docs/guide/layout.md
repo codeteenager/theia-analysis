@@ -1,3 +1,4 @@
+# 自定义布局
 >在上篇文章 [脚手架源码分析](https://www.jiangshuaijie.cn/archives/425) 文章中，我们分析了启动过程中前端页面是如何展示的，那么本篇文章我们介绍一下theia布局的相关内容以及如何自定义布局。
 
 ## PhosphorJS 
