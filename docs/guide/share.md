@@ -14,4 +14,6 @@
 * [CloudIDE云原生化的那些事](/theia-analysis/pdf/CloudIDE云原生化的那些事.pdf)
 * [D2前端工程下一站IDE](/theia-analysis/pdf/D2前端工程下一站IDE.pdf)
 * [基于WebIDE的云端开发架构](/theia-analysis/pdf/基于WebIDE的云端开发架构.pdf)
+* [蚂蚁开发者工具](/theia-analysis/pdf/蚂蚁开发者工具.pdf)
+* [智能小程序开发者工具解决方案](/theia-analysis/pdf/智能小程序开发者工具解决方案.PDF)
 

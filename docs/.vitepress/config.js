@@ -6,7 +6,7 @@ module.exports = {
         siteTitle: false,
         logo: "/logo.svg",
         nav: [
-            { text: "技术解析", link: "/guide/introduction" }
+            { text: "博文", link: "/guide/introduction" }
         ],
         footer: {
             message: 'Released under the MIT License.',
@@ -49,6 +49,10 @@ module.exports = {
                 {
                     text: "其他",
                     items: [
+                        {
+                            text: "相关文章",
+                            link: "/guide/learn",
+                        },
                         {
                             text: "技术分享",
                             link: "/guide/share",
