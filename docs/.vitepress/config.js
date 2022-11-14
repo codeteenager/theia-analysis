@@ -2,12 +2,20 @@ module.exports = {
     title: 'Eclipse Theia技术揭秘',
     description: 'Eclipse Theia技术揭秘',
     base: '/theia-analysis/',
+    head: [
+        ['link', { rel: 'icon', href: '/theia-analysis/favicon.ico' }]
+    ],
+    markdown: {
+        lineNumbers: true, //显示代码行数
+    },
+    lastUpdated: true,
     themeConfig: {
         siteTitle: false,
         logo: "/logo.svg",
         nav: [
             { text: "博文", link: "/guide/introduction" }
         ],
+        outlineTitle: '在本页面',
         footer: {
             message: 'Released under the MIT License.',
             copyright: 'Copyright © 2022-present codeteenager'
