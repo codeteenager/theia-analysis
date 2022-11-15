@@ -16,6 +16,7 @@ module.exports = {
             { text: "博文", link: "/guide/introduction" }
         ],
         outlineTitle: '在本页面',
+        lastUpdatedText: '最近更新时间',
         footer: {
             message: 'Released under the MIT License.',
             copyright: 'Copyright © 2022-present codeteenager'
