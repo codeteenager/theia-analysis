@@ -17,4 +17,8 @@
 * [蚂蚁开发者工具](/theia-analysis/pdf/蚂蚁开发者工具.pdf)
 * [智能小程序开发者工具解决方案](/theia-analysis/pdf/智能小程序开发者工具解决方案.PDF)
 * [CloudIDE在蚂蚁集团的落地实践](/theia-analysis/pdf/CloudIDE在蚂蚁集团的落地实践.pdf)
+* [基于云IDE的智能化移动端录制回放方案](/theia-analysis/pdf/基于云IDE的智能化移动端录制回放方案.pdf)
+* [云原生CloudIDE技术与架构](/theia-analysis/pdf/云原生CloudIDE技术与架构.pdf)
+* [CloudIDE在蚂蚁集团的发展和实践](/theia-analysis/pdf/CloudIDE在蚂蚁集团的发展和实践.pdf)
+* [前后端分离的架构在VSCode中的应用](/theia-analysis/pdf/前后端分离的架构在VSCode中的应用.pdf)
 
