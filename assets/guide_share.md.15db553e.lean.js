@@ -1,1 +1,0 @@
-import{_ as E,c as B,o as a,a as A}from"./app.52b0e06e.js";const n=JSON.parse('{"title":"技术分享","description":"","frontmatter":{},"headers":[],"relativePath":"guide/share.md","lastUpdated":1672667806000}'),i={name:"guide/share.md"},e=A("",2),l=[e];function d(f,s,D,h,t,p){return a(),B("div",null,l)}const C=E(i,[["render",d]]);export{n as __pageData,C as default};
