@@ -1,1 +1,0 @@
-import{_ as e,c as a,o,O as t}from"./chunks/framework.45e1dde2.js";const u=JSON.parse('{"title":"开发一个扩展","description":"","frontmatter":{},"headers":[],"relativePath":"guide/extension.md","lastUpdated":1682517797000}'),i={name:"guide/extension.md"},n=t("",7),r=[n];function l(s,c,d,_,h,p){return o(),a("div",null,r)}const m=e(i,[["render",l]]);export{u as __pageData,m as default};
